@@ -29,7 +29,7 @@ function App() {
         <p>
           Hi, my name’s Hasith. I’m a Product Designer on the Maritime Autonomy team at <a target="_blank" rel="noopener noreferrer" href="https://www.anduril.com/">Anduril Industries</a>. 
           <br />&nbsp;<br/>Previously, I've held intern and contract roles at companies like <a target="_blank" rel="noopener noreferrer" href="https://www.adobe.com/">Adobe</a>, <a href="https://www.alltrails.com/">Alltrails</a> and <a href="https://crossnokaye.com/">CrossnoKaye</a>.
-          <br />&nbsp;<br/>I graduated from UCSB with a B.S. in <a target="_blank" rel="noopener noreferrer" href="https://www.ucsb.edu/">Computational Neuroscience</a>. I design interfaces so that both humans and machines can perceive the world.
+          <br />&nbsp;<br/>I graduated from UCSB with a B.S. in <a target="_blank" rel="noopener noreferrer" href="https://www.ucsb.edu/">Computational Neuroscience</a>. I design interfaces that enable humans and machines to perceive the world.
           <br />&nbsp;<br/>New Portfolio Coming Soon.
           </p>
       </div>
