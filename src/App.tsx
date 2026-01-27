@@ -12,7 +12,7 @@ function App() {
     <>
     <section className="hero-container">
       <div className="hero-content">
-        <a href="https://www.linkedin.com/in/hasith-basnayake/" className="img-container">
+        <a href="https://www.linkedin.com/in/hasith-basnayake/" target="_blank" rel="noopener noreferrer" className="img-container">
           <img className="profile-photo-img" src={profilePhoto} alt="Profile Photo"></img>
         </a>
         <div className="links-container">
@@ -27,9 +27,9 @@ function App() {
           <h2>California, USA</h2>
         </div>
         <p>
-          Hi, my name’s Hasith. I’m a Product Designer on the Maritime Autonomy team at <a href="https://www.anduril.com/">Anduril Industries</a>. 
-          <br />&nbsp;<br/>Previously, I've held intern and contract roles at companies like <a href="https://www.adobe.com/">Adobe</a>, <a href="https://www.alltrails.com/">Alltrails</a> and <a href="https://crossnokaye.com/">CrossnoKaye</a>.
-          <br />&nbsp;<br/>I graduated from UCSB with a B.S. in <a href="https://www.ucsb.edu/">Computational Neuroscience</a>. I design interfaces so that both humans and machines can perceive the world.
+          Hi, my name’s Hasith. I’m a Product Designer on the Maritime Autonomy team at <a target="_blank" rel="noopener noreferrer" href="https://www.anduril.com/">Anduril Industries</a>. 
+          <br />&nbsp;<br/>Previously, I've held intern and contract roles at companies like <a target="_blank" rel="noopener noreferrer" href="https://www.adobe.com/">Adobe</a>, <a href="https://www.alltrails.com/">Alltrails</a> and <a href="https://crossnokaye.com/">CrossnoKaye</a>.
+          <br />&nbsp;<br/>I graduated from UCSB with a B.S. in <a target="_blank" rel="noopener noreferrer" href="https://www.ucsb.edu/">Computational Neuroscience</a>. I design interfaces so that both humans and machines can perceive the world.
           <br />&nbsp;<br/>New Portfolio Coming Soon.
           </p>
       </div>
